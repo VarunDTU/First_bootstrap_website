@@ -7,7 +7,7 @@ body {
 }
 .list-unstyled a {
   text-decoration: none;
-  color: beige;
+  color: rgb(241, 241, 202);
 }
 .dropdown-menu {
   background-color: #737a81;
