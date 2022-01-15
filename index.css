@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(48, 28, 28);
+}
+
+.card {
+  background-color: rgb(48, 28, 28);
+}
+.list-unstyled a {
+  text-decoration: none;
+  color: beige;
+}
+.dropdown-menu {
+  background-color: #737a81;
+  color: beige;
+}
+
+.dropdown-item {
+  color: beige;
+}
+
+h1 {
+  background: -webkit-linear-gradient(#9b865f, rgb(236, 20, 20));
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#alert_signin {
+  display: none;
+}
+.alert-fixed {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  z-index: 9999;
+  border-radius: 0px;
+}
+.footer_des {
+  background-color: black;
+}
